@@ -10,7 +10,7 @@ On Ubuntu 16.04 LTS or up:
     jupyter lab
 
 ## Adaptive Huffman Coding
-[View online on Google Colab](https://colab.research.google.com/github/HEXcube/DataEncoding/blob/master/AdaptiveHuffmanCoding.ipynb)
+[View online on Google Colab](https://colab.research.google.com/github/RohanVilloth/DataEncoding/blob/master/AdaptiveHuffmanCoding.ipynb)
 
 Derived from https://github.com/sh1r0/adaptive-huffman-coding
 
@@ -20,7 +20,7 @@ References:
 - [Detailed Explanation of Adaptive Huffman Coding](https://www.youtube.com/watch?v=GMQfg82FyB8)
 
 ## Integer Arithmetic Coding
-[View online on Google Colab](https://colab.research.google.com/github/HEXcube/DataEncoding/blob/master/IntegerArithmeticCoding.ipynb)
+[View online on Google Colab](https://colab.research.google.com/github/RohanVilloth/DataEncoding/blob/master/IntegerArithmeticCoding.ipynb)
 
 Derived from https://github.com/gw-c/arith
 
